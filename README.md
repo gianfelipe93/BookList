@@ -6,7 +6,7 @@ Studying REACTJS and Redux :)
 Too easy:
 
 ```
-> git clone https://github.com/gianfelipe93/Youtube-Wrapper.git
+> git clone https://github.com/gianfelipe93/Tinder-app.git
 > cd Youtube-Wrapper
 > npm install
 > npm start
