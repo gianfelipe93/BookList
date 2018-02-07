@@ -1,4 +1,4 @@
-# Youtube Wrapper
+# Tinder App
 
 Studying REACTJS and Redux :)
 
